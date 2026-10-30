@@ -50,7 +50,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Evaluations for individuals who suffered sexual abuse, assault, or exploitation within Illinois schools, religious institutions, foster care, or youth organizations.",
     heroImage:
-      "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/illinois-abuse/1000/600",
     overview:
       "Under updated state legislation in Illinois, survivors of childhood sexual abuse and institutional misconduct have extended opportunities to pursue legal accountability. Independent law firms are evaluating claims involving schools, churches, youth organizations, state institutions, and authority figures across Illinois.",
     whoThisAppliesTo: [
@@ -163,7 +163,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Confidential evaluations for survivors of sexual abuse involving leaders, bishops, scoutmasters, or representatives of the Church of Jesus Christ of Latter-day Saints.",
     heroImage:
-      "https://images.unsplash.com/photo-1548625149-fc4a29cf7092?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/lds-abuse/1000/600",
     overview:
       "Independent legal claims are being evaluated nationwide regarding allegations of sexual abuse, grooming, and improper reporting within the Church of Jesus Christ of Latter-day Saints (LDS/Mormon Church). Legal investigations focus on institutional accountability and whether church leadership failed to protect youth or report abuse to law enforcement.",
     whoThisAppliesTo: [
@@ -267,7 +267,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Evaluations for patients prescribed Oxbryta (voxelotor) who suffered severe Vaso-Occlusive Crises (VOC), stroke, organ damage, or fatal complications.",
     heroImage:
-      "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/oxbryta/1000/600",
     overview:
       "Oxbryta (voxelotor), manufactured by Pfizer / Global Blood Therapeutics, was approved for sickle cell disease. Following regulatory withdrawals and safety alerts regarding an increased risk of severe Vaso-Occlusive Crises (VOC) and fatal events in clinical trials, independent law firms are evaluating product liability claims.",
     whoThisAppliesTo: [
@@ -360,7 +360,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Legal evaluation for women who received Depo-Provera birth control injections and were diagnosed with intracranial meningioma (brain or spinal tumor).",
     heroImage:
-      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/depo-provera/1000/600",
     overview:
       "Recent medical studies, including research published in the British Medical Journal (BMJ), indicate that long-term use of medroxyprogesterone acetate (Depo-Provera birth control shot) is linked to a significantly elevated risk of developing meningiomas — tumors of the brain or spinal cord membranes.",
     whoThisAppliesTo: [
@@ -463,7 +463,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Evaluations for parents of premature infants who were fed cow's milk-based formula (Enfamil or Similac) in the NICU and developed Necrotizing Enterocolitis (NEC).",
     heroImage:
-      "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/nec-infant/1000/600",
     overview:
       "Necrotizing Enterocolitis (NEC) is a severe intestinal disease primarily affecting premature infants. Scientific evidence demonstrates that feeding premature babies cow's milk-based infant formula (such as certain Enfamil and Similac products) significantly increases NEC risk compared to human milk diets. Independent law firms are filing claims against formula manufacturers for failing to warn hospitals and parents.",
     whoThisAppliesTo: [
@@ -567,7 +567,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Evaluating legal claims for landscapers, groundskeepers, farmers, and homeowners exposed to Roundup weed killer who developed Non-Hodgkin's Lymphoma.",
     heroImage:
-      "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/roundup/1000/600",
     overview:
       "Glyphosate, the active ingredient in Roundup weed killer, has been classified by the World Health Organization's International Agency for Research on Cancer (IARC) as a probable human carcinogen. Independent law firms continue to represent individuals diagnosed with Non-Hodgkin's Lymphoma (NHL) following routine or occupational exposure to Roundup.",
     whoThisAppliesTo: [
@@ -670,7 +670,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Legal evaluation for licensed applicators, farm workers, and rural residents exposed to Paraquat weed killer who developed Parkinson's Disease.",
     heroImage:
-      "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/paraquat/1000/600",
     overview:
       "Paraquat dichloride is a highly toxic agricultural herbicide widely used in commercial farming. Extensive scientific studies demonstrate a clear correlation between Paraquat exposure and the development of Parkinson's Disease. Independent law firms are seeking compensation for agricultural workers and applicators who developed neurological disorders after handling Paraquat.",
     whoThisAppliesTo: [
@@ -767,7 +767,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Free case evaluation for individuals injured in motor vehicle collisions, commercial truck crashes, or motorcycle accidents caused by negligent drivers.",
     heroImage:
-      "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/motor-vehicle/1000/600",
     overview:
       "Motor vehicle collisions cause millions of serious injuries every year. If you or a family member suffered physical injuries, medical bills, or lost income due to a negligent driver, independent personal injury attorneys can help evaluate your claim and seek maximum financial recovery.",
     whoThisAppliesTo: [
@@ -869,7 +869,7 @@ export const CASES: CaseDetail[] = [
     shortDescription:
       "Specialized legal evaluations for passengers, third-party drivers, or pedestrians injured in crashes involving Uber or Lyft vehicles.",
     heroImage:
-      "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1000&fit=crop&auto=format",
+      "https://picsum.photos/seed/rideshare/1000/600",
     overview:
       "Collisions involving Uber, Lyft, or commercial rideshare drivers involve complex multi-tiered insurance policies. Whether you were riding as a passenger or hit by an on-duty rideshare driver, independent attorneys can help navigate claims across corporate rideshare insurance policies.",
     whoThisAppliesTo: [
