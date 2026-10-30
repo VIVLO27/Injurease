@@ -154,7 +154,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
 
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/15 group aspect-4/3">
               <img
-                src="/images/legal_consultation_hero.jpg"
+                src={`/images/legal_consultation_hero.jpg`}
                 alt="Law firm confidential consultation"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
@@ -533,7 +533,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
             <div className="lg:col-span-6 relative">
               <div className="rounded-3xl overflow-hidden shadow-2xl border border-white/15 relative group aspect-4/3">
                 <img
-                  src="/images/case_investigation_visual.jpg"
+                  src={`/images/case_investigation_visual.jpg`}
                   alt="Scientific litigation investigation"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
@@ -737,7 +737,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
           <div className="relative anim-fade-right order-last lg:order-first">
             <div className="rounded-3xl overflow-hidden shadow-2xl aspect-4/3 relative group">
               <img
-                src="/images/legal_consultation_hero.jpg"
+                src={`/images/legal_consultation_hero.jpg`}
                 alt="Legal consultation and case review"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
