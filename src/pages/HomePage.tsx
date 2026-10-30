@@ -2,6 +2,8 @@ import { useState } from "react";
 import { siteConfig } from "../data/siteConfig";
 import { CASES, CASE_CATEGORIES } from "../data/cases";
 import { mainFaqs } from "../data/faqs";
+import heroImage from "../assets/images/legal_consultation_hero.jpg";
+import investigationImage from "../assets/images/case_investigation_visual.jpg";
 
 interface HomePageProps {
   onNavigate: (path: string) => void;
@@ -154,7 +156,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
 
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/15 group aspect-4/3">
               <img
-                src={`/images/legal_consultation_hero.jpg`}
+                src={heroImage}
                 alt="Law firm confidential consultation"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
@@ -533,7 +535,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
             <div className="lg:col-span-6 relative">
               <div className="rounded-3xl overflow-hidden shadow-2xl border border-white/15 relative group aspect-4/3">
                 <img
-                  src={`/images/case_investigation_visual.jpg`}
+                  src={investigationImage}
                   alt="Scientific litigation investigation"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
@@ -737,7 +739,7 @@ export function HomePage({ onNavigate, onOpenEvaluation }: HomePageProps) {
           <div className="relative anim-fade-right order-last lg:order-first">
             <div className="rounded-3xl overflow-hidden shadow-2xl aspect-4/3 relative group">
               <img
-                src={`/images/legal_consultation_hero.jpg`}
+                src={heroImage}
                 alt="Legal consultation and case review"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               />
