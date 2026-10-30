@@ -1,10 +1,17 @@
 {
-  "description": "Connects individuals with independent attorneys and law firms to explore legal options, facilitating informed decisions without providing legal advice.",
-  "robots": {
-    "index": false
-  },
-  "accessibility": {
-    "addBypassLinks": false,
-    "ignoreReducedMotion": false
-  }
+    "description":  "Connects individuals with independent attorneys and law firms to explore legal options, facilitating informed decisions without providing legal advice.",
+    "robots":  {
+                   "index":  false
+               },
+    "accessibility":  {
+                          "addBypassLinks":  false,
+                          "ignoreReducedMotion":  false
+                      },
+    "icons":  {
+                  "icon":  "/favicon.png"
+              },
+    "openGraph":  {
+                      "image":  "/logo.png"
+                  },
+    "title":  "Injurease"
 }
